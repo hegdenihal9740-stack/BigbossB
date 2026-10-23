@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 160">
+  <title>Jetliner nose profile and swept cockpit glazing</title>
+  <!-- Profile: x = longitudinal distance, y = fuselage radius, 100 units per model unit. -->
+  <path id="nose-profile" d="M0 122.8 C65 122.8 110 119 151 101 C199 80 232 48 257 23 C270 10 280 4 280 0" fill="none"/>
+  <!-- Glazing: x = longitudinal distance, y = angle from crown in hundredths of a radian. -->
+  <path id="windshield-front" d="M133 8 L179 10 L199 66 L149 77 Z"/>
+  <path id="windshield-side" d="M85 30 L125 10 L142 79 L89 109 Z"/>
+  <path id="windshield-rear" d="M42 53 L76 35 L80 111 L43 119 Z"/>
+</svg>
